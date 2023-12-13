@@ -109,16 +109,20 @@ Note:- Images used to create the website are either stock images or AI generated
 
 ![About Us Page](https://vistavibes.in/wp-content/uploads/2023/12/About-Us.png)
 
-## 7) Cart Page
+## 7) My Account Page
+
+![My Account Page](https://vistavibes.in/wp-content/uploads/2023/12/My-Account.png)
+
+## 8) Cart Page
 
 ![Cart Page](https://vistavibes.in/wp-content/uploads/2023/12/Cart-1.png)
 ![Cart Page](https://vistavibes.in/wp-content/uploads/2023/12/Cart-2.png)
 
-## 8) Checkout Page
+## 9) Checkout Page
 
 ![Checkout Page](https://vistavibes.in/wp-content/uploads/2023/12/Checkout.png)
 
-## 9) Thank You Page
+## 10) Thank You Page
 
 ![Thank You Page](https://vistavibes.in/wp-content/uploads/2023/12/Thank-You-Page-1.png)
 ![Thank You Page](https://vistavibes.in/wp-content/uploads/2023/12/Thank-You-Page-2.png)
