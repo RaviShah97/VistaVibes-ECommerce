@@ -1,0 +1,59 @@
+.elementor-2837 .elementor-element.elementor-element-62daa93{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}/* Start custom CSS for container, class: .elementor-element-62daa93 *//* Styling for the testimonials section */
+.testimonials {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Styling for individual testimonials */
+.testimonial {
+    width: 45%;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #222;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Styling for testimonial titles */
+.testimonial h3 {
+    font-size: 1.5em; /* Increased from 1.3em */
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+/* Styling for testimonial content */
+.testimonial p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Styling for author information */
+.testimonial .author {
+    font-style: italic;
+    font-size: 1em;
+    color: #bbb;
+}
+
+/* Styling for links within testimonials */
+.testimonial a {
+    color: #fdcb58;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Hover effect for links within testimonials */
+.testimonial a:hover {
+    color: #e17055;
+}
+
+/* Responsive styling for smaller screens */
+@media (max-width: 768px) {
+    .testimonial {
+        width: 100%;
+    }
+}/* End custom CSS */

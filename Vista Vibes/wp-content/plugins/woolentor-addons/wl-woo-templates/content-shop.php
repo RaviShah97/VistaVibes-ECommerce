@@ -1,0 +1,1 @@
+<?php do_action( 'woolentor_woocommerce_archive_product_content' ); ?>

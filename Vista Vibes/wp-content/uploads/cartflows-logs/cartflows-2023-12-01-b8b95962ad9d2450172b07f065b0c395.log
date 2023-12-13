@@ -1,0 +1,6 @@
+2023-12-01T17:16:56+00:00 INFO Is weekly report enabled: enable
+2023-12-01T17:16:56+00:00 INFO Weekly report action scheduled. Action: cartflows_send_report_summary_email 
+2023-12-01T18:42:19+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2023-12-01T18:42:19+00:00 INFO Only for thank you page
+2023-12-01T18:42:19+00:00 INFO Checkout ID : 1673
+2023-12-01T18:42:19+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
