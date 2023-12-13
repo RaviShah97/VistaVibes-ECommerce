@@ -74,3 +74,54 @@ The licensing details for Vista Vibes are governed by the WordPress platform and
 For any inquiries or collaborations, you can contact the project owner:
 - Email: ravirshah97@gmail.com
 
+---
+
+# E-Commerce Website Images
+Note:- Images used to create the website are either stock images or AI generated pictures. We didn't use any copyrighted image to create our website.
+
+## 1) Home Page
+
+![Home Page](https://vistavibes.in/wp-content/uploads/2023/12/Home-Page-1.png)
+![Home Page](https://vistavibes.in/wp-content/uploads/2023/12/Home-Page-2.png)
+
+## 2) Store Page
+
+![Store Page](https://vistavibes.in/wp-content/uploads/2023/12/Store-1.png)
+![Store Page](https://vistavibes.in/wp-content/uploads/2023/12/Store-2.png)
+
+## 3) Categories Page
+
+![Categories Page](https://vistavibes.in/wp-content/uploads/2023/12/Categories-1.png)
+![Categories Page](https://vistavibes.in/wp-content/uploads/2023/12/Categories-2.png)
+
+## 4) Deals Page
+
+![Deals Page](https://vistavibes.in/wp-content/uploads/2023/12/Deals.png)
+![Deals Page](https://vistavibes.in/wp-content/uploads/2023/12/Deals-1.png)
+![Deals Page](https://vistavibes.in/wp-content/uploads/2023/12/Deals-2.png)
+
+## 5) Product Page
+
+![Product Page](https://vistavibes.in/wp-content/uploads/2023/12/Product-Page-1.png)
+![Product Page](https://vistavibes.in/wp-content/uploads/2023/12/Product-Page-2.png)
+
+## 6) About Us Page
+
+![About Us Page](https://vistavibes.in/wp-content/uploads/2023/12/About-Us.png)
+
+## 7) Cart Page
+
+![Cart Page](https://vistavibes.in/wp-content/uploads/2023/12/Cart-1.png)
+![Cart Page](https://vistavibes.in/wp-content/uploads/2023/12/Cart-2.png)
+
+## 8) Checkout Page
+
+![Checkout Page](https://vistavibes.in/wp-content/uploads/2023/12/Checkout.png)
+
+## 9) Thank You Page
+
+![Thank You Page](https://vistavibes.in/wp-content/uploads/2023/12/Thank-You-Page-1.png)
+![Thank You Page](https://vistavibes.in/wp-content/uploads/2023/12/Thank-You-Page-2.png)
+![Thank You Page](https://vistavibes.in/wp-content/uploads/2023/12/Thank-You-Page-3.png)
+
+
