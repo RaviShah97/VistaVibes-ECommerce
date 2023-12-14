@@ -109,6 +109,7 @@ Note:- Images used to create the website are either stock images or AI generated
 ## 6) About Us Page
 
 ![About Us Page](https://vistavibes.in/wp-content/uploads/2023/12/About-Us.png)
+![About Us Page](https://vistavibes.in/wp-content/uploads/2023/12/About-Us-1.png)
 
 ## 7) My Account Page
 
