@@ -19,6 +19,7 @@ Vista Vibes is an e-commerce website specializing in digital art. Users can expl
 6. [Contributing Guidelines](#contributing-guidelines)
 7. [License](#license)
 8. [Contact Information](#contact-information)
+9. [Website Images](#e-commerce-website-images)
 
 ## Technologies Used
 
